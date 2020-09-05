@@ -1,4 +1,4 @@
-# Maya Colormanagement
+# Maya Color Management
 Standard colorspace rules for Maya to use the right ACES colorspace.
 Uses a xml file located on a server to lookup structures in filename, to match the colorspace transform (IDT) of an image.
 
